@@ -81,3 +81,4 @@ Analyze insurance coverage patterns.
 Support data-driven strategic decisions.
 
 Screenshots : 
+https://github.com/its-harminder-singh/U.S.-Healthcare-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
