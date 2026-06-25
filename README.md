@@ -79,3 +79,5 @@ Identify high-cost medical conditions.
 Improve resource planning and hospital operations.
 Analyze insurance coverage patterns.
 Support data-driven strategic decisions.
+
+Screenshots : 
